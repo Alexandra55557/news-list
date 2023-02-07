@@ -20,11 +20,7 @@
     flex-flow: row nowrap;
     justify-content: space-between;
     align-items: center;
-    position: fixed;
     font-size: 36px;
-    top: 0;
-    left: 0;
-    right: 0;
     padding: 36px 0;
     user-select: none;
     border-bottom: solid 1px #E5E5E5;

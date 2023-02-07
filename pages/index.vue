@@ -1,5 +1,10 @@
 <template>
-  <Tutorial/>
+	<div class="index">
+		<div class="index__news">
+			<News />
+		</div>
+	</div>
+
 </template>
 
 <script>
